@@ -27,7 +27,6 @@ An all-inclusive feed of TTRPG posts! Includes basic terms AND references to spe
 
 - https://bsky.app/profile/skeet.computer/post/3jzqnjr22fv2z
 - ttrpg
-- d&d
 - dnd
 - pathfinder
 - dungeons and dragons
